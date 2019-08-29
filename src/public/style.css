@@ -1,0 +1,29 @@
+body {
+	background: #5e4655;
+	text-align: center;
+	font-family: cursive;
+}
+
+.container {
+	width: 550px;
+	margin: 100px auto;
+	padding: 20px 55px;
+	background: #f3eaf2;
+	border: 3px solid #9c6262;
+	border-radius: 10px;
+	box-shadow: 5px 10px 15px #333;
+}
+
+.description {
+	text-align: left;
+}
+
+code {
+	background: #eee;
+	padding: 2px;
+}
+
+#author {
+	color: #677;
+	font-size: 12px;
+}
